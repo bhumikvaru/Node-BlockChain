@@ -66,3 +66,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 ## Disclaimer
 
 This is a basic implementation for educational purposes and is not suitable for production use. Real-world blockchain systems are much more complex and include additional features for security, scalability, and consensus.
+
+##Blog
+https://dly.to/gAoNe4lFHHU
